@@ -1,5 +1,38 @@
 # Changelog
 
+## [1.0.0-rc.120](https://github.com/michalby24/jobnik-manager-test-michsi/compare/jobnik-manager-v0.1.0-rc.113...jobnik-manager-v1.0.0-rc.120) (2026-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* test
+* test
+
+### Features
+
+* test ([0648d56](https://github.com/michalby24/jobnik-manager-test-michsi/commit/0648d5644687efd5ca2950a20d299fcea6b6eca1))
+* test ([5c980dc](https://github.com/michalby24/jobnik-manager-test-michsi/commit/5c980dc1d8d3fa56a9aca3795b4e95a06c40c16f))
+* test ([08b1b96](https://github.com/michalby24/jobnik-manager-test-michsi/commit/08b1b96316ff35dec11144f306d079033e136965))
+* test ([d436711](https://github.com/michalby24/jobnik-manager-test-michsi/commit/d43671197d0438d9000b2bd94d5e61b00de3beb7))
+
+
+### Bug Fixes
+
+* Next1 ([bbf77d7](https://github.com/michalby24/jobnik-manager-test-michsi/commit/bbf77d7146ba59667ccbb46e9498d431007cb398))
+* test ([b274208](https://github.com/michalby24/jobnik-manager-test-michsi/commit/b274208826255c6adbf028005e295c5a3ba1d7df))
+* test 1 ([cb6ff4f](https://github.com/michalby24/jobnik-manager-test-michsi/commit/cb6ff4f867fe6ffbe14ec4690b7cb86ce31666f9))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([ba292e3](https://github.com/michalby24/jobnik-manager-test-michsi/commit/ba292e3009ffc0c40288190869f9e32eea66799d))
+* enforce correct rc version ([d85ddd1](https://github.com/michalby24/jobnik-manager-test-michsi/commit/d85ddd15548ca6149ed663b91b5e8bb0272471f1))
+* enforce correct rc version ([519497b](https://github.com/michalby24/jobnik-manager-test-michsi/commit/519497ba1fcd1b30d270909202e4a9704deb7db8))
+* enforce correct rc version ([721c42d](https://github.com/michalby24/jobnik-manager-test-michsi/commit/721c42da1c98d1e8c28fa5034bf7da2c26ade97b))
+* enforce correct rc version ([3bb47f4](https://github.com/michalby24/jobnik-manager-test-michsi/commit/3bb47f4230ccb0c0a2f1c663026ac08bc7b02129))
+* enforce correct rc version ([7c1b12a](https://github.com/michalby24/jobnik-manager-test-michsi/commit/7c1b12a090ad409485c3ad64e9b64ea6602ec91b))
+* enforce correct rc version ([b667954](https://github.com/michalby24/jobnik-manager-test-michsi/commit/b6679540d47d6ffa7f7151ee105d07733c3b2a9d))
+
 ## [0.1.0-rc.113](https://github.com/michalby24/jobnik-manager-test-michsi/compare/jobnik-manager-v0.1.0...jobnik-manager-v0.1.0-rc.113) (2026-01-07)
 
 
