@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.0.0-rc.116](https://github.com/michalby24/jobnik-manager-test-michsi/compare/jobnik-manager-v0.1.0-rc.113...jobnik-manager-v1.0.0-rc.116) (2026-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* test
+
+### Features
+
+* test ([08b1b96](https://github.com/michalby24/jobnik-manager-test-michsi/commit/08b1b96316ff35dec11144f306d079033e136965))
+* test ([d436711](https://github.com/michalby24/jobnik-manager-test-michsi/commit/d43671197d0438d9000b2bd94d5e61b00de3beb7))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([3bb47f4](https://github.com/michalby24/jobnik-manager-test-michsi/commit/3bb47f4230ccb0c0a2f1c663026ac08bc7b02129))
+* enforce correct rc version ([7c1b12a](https://github.com/michalby24/jobnik-manager-test-michsi/commit/7c1b12a090ad409485c3ad64e9b64ea6602ec91b))
+* enforce correct rc version ([b667954](https://github.com/michalby24/jobnik-manager-test-michsi/commit/b6679540d47d6ffa7f7151ee105d07733c3b2a9d))
+
 ## [0.1.0-rc.113](https://github.com/michalby24/jobnik-manager-test-michsi/compare/jobnik-manager-v0.1.0...jobnik-manager-v0.1.0-rc.113) (2026-01-07)
 
 
