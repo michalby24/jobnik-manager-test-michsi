@@ -1,9 +1,7 @@
 name: Push Next Artifacts to Azure Registry
 
 on:
-  push:
-    branches:
-      - next
+  workflow_dispatch:
 
 permissions:
   contents: write

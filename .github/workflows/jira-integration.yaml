@@ -1,8 +1,7 @@
 name: Jira Integration
 on:
-  pull_request:
-    types: [opened, edited, synchronize]
-
+  workflow_dispatch:
+  
 permissions:
   statuses: write
   pull-requests: write
